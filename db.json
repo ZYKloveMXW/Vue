@@ -1,0 +1,54 @@
+{
+  "picture": [
+    {
+      "id": 1,
+      "url": "/static/lunboTu/3.png"
+    },
+    {
+      "id": 2,
+      "url": "/static/lunboTu/2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "/static/lunboTu/1.jpg"
+    }
+  ],
+  "new": [
+    {
+      "title": "怎么快速搭建spa应用",
+      "content_brief": "今天我们将学习如何用VUE构建一个简单的单页应用(SPA) 如果没有其他特殊声明,此教程中的VUE全部指的是VUE2.X版本 预览 让我们先看看最终的的单页程序...",
+      "content_whole": ""
+    },
+    {
+      "title": "vuex服务端渲染",
+      "content_brief": "我们常常有这样的需求,在某组件渲染完成后,才能进行数据请求,请求与这个值有关...步骤是这样的,在vuex中定义一个变量来保存组件渲染的状态,默认组件未...",
+      "content_whole": ""
+    }
+  ],
+  "store": [
+    {
+      "price": 999.99,
+      "desc": "华为手机很牛逼",
+      "title": "华为nova5 pro",
+      "thumb": "./static/lunboTu/3.jpg"
+    },
+    {
+      "price": 2999.99,
+      "desc": "苹果手机很牛逼",
+      "title": "iphone11 pro",
+      "thumb": "https://img.yzcdn.cn/vant/ipad.jpeg"
+    },
+    {
+      "price": 3999.99,
+      "desc": "thinkpad电脑很牛逼",
+      "title": "thinkPad x1 carbon",
+      "thumb": "./static/lunboTu/5.jpg"
+    },
+    {
+      "price": 4999.99,
+      "desc": "武汉加油",
+      "title": "China NO.1",
+      "thumb": "./static/lunboTu/2.png"
+    }
+  ]
+}
