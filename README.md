@@ -13,4 +13,4 @@
 ## 6.keep-alive的生命周期
 ### 当引入keep-alive的时候，页面第一次进入，子的触发顺序created-> mounted-> activated，退出时触发deactivated。当再次进入（前进或者后退）时，只触发activated
 
-## vue? data中如果用数组存值,不能通过直接赋值来更改视图，必须要用splice之类的api(性能划不来)
+## vue?2.2 data中如果用数组存值,不能通过直接赋值来更改视图，必须要用splice之类的api(性能划不来)
